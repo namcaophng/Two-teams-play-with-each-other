@@ -1,0 +1,4 @@
+japanrie 160 95 80 70
+kuroew 90 125 60 55
+saricer 200 95 65 65
+feaice 100 100 80 65

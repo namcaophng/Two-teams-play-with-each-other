@@ -1,0 +1,4 @@
+nguoisat 100 80 65 70
+southern 200 95 105 70
+fudiro 150 105 55 85
+cureie 175 95 95 75
